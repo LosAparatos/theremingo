@@ -8,8 +8,8 @@ Theremingo is an analog theremin — a touchless electronic instrument played by
 
 ## Repository contents
 
-- `/schematics` — circuit schematics
-- `/images` — photos of the finished instrument
+- `/schematics` — circuit design files, created in **EagleCAD (v9.0)**. You'll need Eagle (or a compatible tool like KiCad with an Eagle import plugin) to open the native files.
+- `/images` — photos of the finished instrument, including its final enclosure — a deer-shaped antenna cut as an SVG, not included among the schematic files.
 
 ## About Los Aparatos
 
