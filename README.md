@@ -1,5 +1,6 @@
 # Theremingo
 ![Theremingo](images/avatar.png)
+
 A handmade analog electromagnetic theremin, designed and built by [Los Aparatos](https://losaparatos.com.ar) in Tucumán, Argentina.
 
 ## What is it?
