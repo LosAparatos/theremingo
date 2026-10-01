@@ -13,7 +13,7 @@ Theremingo is an analog theremin — a touchless electronic instrument played by
 
 ## About Los Aparatos
 
-Los Aparatos is a one-person workshop building experimental electronic instruments — synthesizers, sound toys and DIY kits — by hand in Tucumán, Argentina, since 2007.
+Los Aparatos is an electronic design studio building experimental musical instruments — synthesizers, sound toys and DIY kits — handmade in Tucumán, Argentina, since 2007.
 
 Other instruments: [Auduina](https://gitlab.com/los-aparatos/auduina) (granular synth), Drawdio (a sound pencil that turns drawing into sound), CoyuyoC (a drone synth).
 
